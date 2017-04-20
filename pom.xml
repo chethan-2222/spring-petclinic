@@ -144,7 +144,7 @@
             <exclusions>
                 <exclusion>
                     <groupId>org.springframework</groupId>
-                    <artifactId>spring-work</artifactId>
+                    <artifactId>spring-context</artifactId>
                 </exclusion>
                 <!--  because Spring Data usually comes with a slightly older version of Spring -->
             </exclusions>
